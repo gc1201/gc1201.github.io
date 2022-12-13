@@ -1,8 +1,8 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Guangyue Cao
 description         : >-
                       I am a Data Analyst and Urban Designer with extensive project experience in analytics and urban design. Possessing interdisciplinary perspectives to identify, analyze, and solve problems, proficiency in using multiple platforms and visual programming skills to transform data into design solutions and strategy.
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : gc1201/gc1201.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : gc1201/gc1201.github.io
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
