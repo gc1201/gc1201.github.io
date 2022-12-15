@@ -21,9 +21,9 @@
         {%- assign project_id    = project.name -%}
         {%- assign project_img   = false -%}
         {%- assign project_name  = titlecase | strip -%}
-        {%- assign project_desc  = project.description -%}
+        {%- assign project_subtitle  = project.subtitle -%}
         {%- assign project_url   = project.html_url -%}
-        {%- assign project_tools = project.topics -%}
+        {%- assign project_tags = project.topics -%}
         {%- assign external      = true -%}
 
         {% include projects/project-card.html %}
@@ -39,10 +39,10 @@
 
     {%- assign project_type  = "local" -%}
     {%- assign project_id    = project.name | slugify -%}
-    {%- assign project_img   = project.image -%}
+    {%- assign project_img   = project.front_image -%}
     {%- assign project_name  = project.name -%}
-    {%- assign project_desc  = project.description -%}
-    {%- assign project_tools = project.tools -%}
+    {%- assign project_subtitle  = project.subtitle -%}
+    {%- assign project_tags = project.tags -%}
 
     {%- if project.external_url -%}
       {%- assign project_url = project.external_url -%}
