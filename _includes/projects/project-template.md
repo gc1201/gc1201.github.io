@@ -24,8 +24,11 @@
 {% endif %}
 </p>
 
-{% assign carousel_images = page.images %}
-{% include elements/carousel.html %}
+
+{% if page.images.size > 0 %}
+    {% assign carousel_images = page.images %}
+    {% include elements/carousel.html %}
+{% endif %}
 
 {% if page.project_url %}
 <p class="text-center">
@@ -44,4 +47,8 @@
 <p class="text-center">
 {% include elements/button.html link=page.media_url text="Check Project Media" %}
 </p>
+{% endif %}
+
+{% if page.embedded_video %}
+{{ page.embedded_video }}
 {% endif %}
