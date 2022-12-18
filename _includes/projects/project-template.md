@@ -26,8 +26,8 @@
 
 
 {% if page.images.size > 0 %}
-    {% assign carousel_images = page.images %}
-    {% include elements/carousel.html %}
+{% assign carousel_images = page.images %}
+{% include elements/carousel.html %}
 {% endif %}
 
 {% if page.project_url %}

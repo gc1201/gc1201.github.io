@@ -3,7 +3,7 @@ name: Unique Immunity Community
 subtitle: A research
 tags: [Video, Research]
 roles: [Videographer, Animator]
-front_image: gcao_worksample40.jpg
+front_image: immune_comunity.gif
 images: [gcao_worksample40.jpg]
 description: >
 
