@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Guangyue Cao
 description         : >-
-                      Hey there! I’m an urban designer and data analyst.
+                      Hey there! <br> I’m an urban designer and data analyst. <br>
                       I talk about #mobility, #design and #data science. 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : gc1201/gc1201.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
