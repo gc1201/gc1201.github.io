@@ -12,6 +12,7 @@ project_doc: VisionDocument_Draft_v1_20191129.pdf
 embedded_video: >-
     <iframe src="https://player.vimeo.com/video/478577401?h=2c763d92fa" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
     <p><a href="https://vimeo.com/478577401">University of Utah Research Park Strategic Vision</a> from <a href="https://vimeo.com/user106617820">Perkins&amp;Will SF</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+order: 1
 ---
 
 {% include projects/project-template.md %}

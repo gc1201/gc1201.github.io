@@ -6,6 +6,7 @@ roles: [Data Analyst]
 front_image: Portfolio_Web_Landscape.jpg
 images: [gcao_worksample18.jpg, gcao_worksample19.jpg, gcao_worksample20.jpg]
 description: A confidential client wants to find out what’s the need to have and good to have amenities for their employees across more than 500 locations nationwide. 
+order: 3
 ---
 
 {% include projects/project-template.md %}

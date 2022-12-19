@@ -9,6 +9,7 @@ description: This research project aims to equip urban designers and planners wi
 impact: World Changing Ideas 2020 by Fast Magazine
 project_url: https://storymaps.arcgis.com/stories/21b54fc20ac24dc8a92044e4370c3bfd
 media_url: https://innovation.perkinswill.com/neighborhood-livability/
+order: 2
 ---
 
 {% include projects/project-template.md %}

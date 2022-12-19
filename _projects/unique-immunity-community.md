@@ -14,6 +14,7 @@ description: >
   Inspired by these sentiments, Unique Immunity Community works toward a provocation rather than a conclusion. Its purpose is to understand and explore Brownsville’s ‘immunity’ to gentrification and the ‘authenticity’ which this immunity both depends on, and in turn, reinforces.
 
   The video first contemplates how and why this immunity has occurred, and second, reveals the psychographic manifestations of this immunity:  what it looks at feels like from the inside. But what does this so-called ‘immunity’ mean for the future of Brownsville’? What is this unique kind of promise that Brownsville offers?
+order: 14
 ---
 
 {% include projects/project-template.md %}
