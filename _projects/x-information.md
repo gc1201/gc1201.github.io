@@ -1,7 +1,7 @@
 ---
 name: X-Information
 tags: [Computational Design, Data Analysis]
-front_image: gcao_worksample37.jpg
+front_image: Pedview_LandMarkView.gif
 images: [gcao_worksample36.jpg, gcao_worksample37.jpg]
 ---
 

@@ -30,6 +30,10 @@
 {% include elements/carousel.html %}
 {% endif %}
 
+{% if page.tableau %}
+{{ page.tableau }}
+{% endif %}
+
 {% if page.project_url %}
 <p class="text-center">
 {% include elements/button.html link=page.project_url text="Visit Project Link" %}
